@@ -1,0 +1,36 @@
+{
+  "icons": [
+    {
+      "src": "icon_384x384.a0eefc92ec4f6380ffeb7ffe7722518a.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.1a57ac49aad5fcf6ecafa46b56b13980.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.985889394ac7b880177bb373fcbdefd9.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.912e71a6ce283b4deaa84da982721fe3.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.466b33991be22d980536395966dd672c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Coder",
+  "short_name": "Coder",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Run VS Code on a remote server",
+  "background_color": "#e5e5e5"
+}
